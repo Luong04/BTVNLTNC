@@ -1,0 +1,13 @@
+BT7 - phan B
+1.
+output:
+*p3 = B, p3 = 0x5678
+*p3 = A, p3 = 0x1234
+*p1 = B, p1 = 0x1234
+
+2.
+Những giá trị sẽ gán cho i giá trị 5 là:
+*p = 5
+
+3.
+Lỗi kiểu dữ liệu con trỏ p mang kiểu dữ liệu double nhưng lại trỏ đến biến có kiểu dữ liệu char.
